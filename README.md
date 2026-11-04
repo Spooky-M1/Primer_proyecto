@@ -1,2 +1,2 @@
-# Primer_proyecto
-Practica de git y github desde la app
+#Hola mundo
+Mi primer proyecto de git
